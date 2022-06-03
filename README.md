@@ -8,7 +8,7 @@ We decided to focus our research in hyperparameter optimization. We benchmarked 
 
 ## Dataset and model
 
-We decided to use a public [Heart Attack Dataset]{https://www.kaggle.com/rashikrahmanpritom/heart-attack-analysis-prediction-dataset}
+We decided to use a public [Heart Attack Dataset](https://www.kaggle.com/rashikrahmanpritom/heart-attack-analysis-prediction-dataset)
 
 ## Report
 
